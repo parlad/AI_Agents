@@ -1,2 +1,2 @@
-# AI_Agents
-this repo contains a practical implementation of AI agents
+# Memory Distortion for Super Human AI
+Goal: introducing inverse to evolution for most evolutionary
